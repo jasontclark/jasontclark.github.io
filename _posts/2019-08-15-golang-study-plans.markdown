@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Study Plans for Golang"
-date:   2019-08-14
+date:   2019-08-15
 categories: blogging development golang learning 100daysofcode
 ---
 
