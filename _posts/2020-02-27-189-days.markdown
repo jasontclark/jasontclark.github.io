@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "189 Days. :-("
+date:   2020-02-27
+categories: blogging development golang learning 100daysofcode
+---
+
+189 Days. 189 Days since my last blog post.  That sucks.  At this point, I almost think that my blog should be about sustained procrastination, poor time management, and how *not* to dedicate yourself to your personal goals.
+
+Life gets in the way.  It's my convenient, always reliable, go-to excuse.  The key is to not let that happen. With the end of 1Q2020 fast approaching, come hell or high water, I have to figure out how to dedicate 60 mins a day to writing code.  When I say writing code, I don't mean blogging about it, but _actually writing code_.  It should basically go like this: pick a time, set a timer, and code until the timer goes off.  Hopefully it is as simple as that.  Now, I have to consider my schedule. At this point in my life, my mornings are full. Unless I get up well before daybreak, I won't be able to pull off having a morning coding session.  The best time to probably sneak in an hour of coding is sometime after dinner but before bed. I'm thinking that the 8:00PM hour should work, so I'll give it a try *tonight*.  Yes, *TONIGHT*.
+
+The good news is that my last post, the "[GoLang Learning Path](https://iamjasonclark.com/blogging/development/golang/learning/100daysofcode/2019/08/22/golang-learning-path.html)" post- that is still valid. I will probably find more learning resources, but I don't think that I can go wrong by starting with the Udemy courses previously purchased.  Let's see if this sticks, or if there's going to be yet another 100+ days before I'm complaining about myself once more.
+
+Wish me luck.
